@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012 The Polycule Project
+<!-- Copyright (C) 2012 The CyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,8 +14,8 @@
      limitations under the License.
  -->
 <resources>
-    <string name="app_name">Polycule-achtergronden</string>
-    <string name="app_label">Polycule-achtergronden</string>
+    <string name="app_name">CyanogenMod-achtergronden</string>
+    <string name="app_label">CyanogenMod-achtergronden</string>
     <string name="set_wallpaper">Achtergrond instellen</string>
     <string name="no_wallpaper">Geen achtergrond</string>
 </resources>

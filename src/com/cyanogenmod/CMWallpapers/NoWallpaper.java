@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Polycule.PolyPapers;
+package com.cyanogenmod.CMWallpapers;
 
 import android.app.Activity;
 import android.app.WallpaperManager;
